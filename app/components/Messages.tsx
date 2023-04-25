@@ -11,7 +11,9 @@ import { Message, SystemMessage } from './Message';
 
 const SYSTEM_MESSAGE = (
   <>
-    本页面会将数据发送给 OpenAI
+    请关注公众号【AI出海】发送KEY来获取免费共享的API KEY后体验
+    <br />
+    也可以点击左下角链接获取独享API KEY畅享极速聊天
     <br />
     请注意隐私风险，禁止发送违法内容
   </>
