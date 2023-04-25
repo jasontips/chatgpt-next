@@ -170,11 +170,11 @@ const MenuTabsContent = () => {
 const MenuFooter = () => {
   return (
     <div className="flex-none mx-4 my-5 pb-[env(safe-area-inset-bottom)] text-center text-gray-400 text-sm">
-      由{' '}
-      <a className="text-link-gray" href="https://github.com/xcatliu/chatgpt-next" target="_blank">
-        ChatGPT Next
+     请{' '}
+      <a className="text-link-gray" href="https://buy.52ai.pro" target="_blank">
+        获取独享API KEY
       </a>{' '}
-      驱动
+      使用
     </div>
   );
 };
